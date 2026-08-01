@@ -311,5 +311,5 @@ Every day you practice is one step closer to becoming a professional Full Stack 
 
 Happy Learning!
 
-**— Madhu Parvathaneni**
+**— Madhu Parvathaneni** <br/>
 **Codegnan IT Solutions**
