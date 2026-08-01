@@ -1,4 +1,4 @@
-# 🚀 Codegnan - Python Full Stack Development (PFS-HYD-054)
+# 🚀 Codegnan - PFS-HYD-054
 ## Flask Development Repository
 
 Welcome to the official Flask learning repository for **PFS-HYD-054**.
