@@ -266,6 +266,7 @@ Students will be evaluated based on:
 - MDN Web Docs
 - Bootstrap Documentation
 - MySQL Documentation
+- Videos [https://drive.google.com/drive/folders/1doyjN76b8A4YL0LyRNDdL0uu6uaSZ_1q?usp=drive_link]
 
 ---
 
